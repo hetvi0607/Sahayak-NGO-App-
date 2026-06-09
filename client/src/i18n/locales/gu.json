@@ -1,0 +1,21 @@
+{
+  "brand": "સહાયક",
+  "dashboard": "ડેશબોર્ડ",
+  "requests": "વિનંતીઓ",
+  "nearby": "નજીકના કાર્યો",
+  "accepted": "સ્વીકારેલા કાર્યો",
+  "profile": "પ્રોફાઇલ",
+  "admin": "એડમિન",
+  "login": "લોગિન",
+  "register": "રજીસ્ટર",
+  "logout": "લોગઆઉટ",
+  "createRequest": "વિનંતી બનાવો",
+  "submit": "સબમિટ",
+  "category": "શ્રેણી",
+  "title": "શીર્ષક",
+  "description": "વર્ણન",
+  "address": "સરનામું",
+  "phone": "ફોન",
+  "status": "સ્થિતિ",
+  "search": "શોધો"
+}

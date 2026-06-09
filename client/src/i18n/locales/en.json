@@ -1,0 +1,21 @@
+{
+  "brand": "SahayaK",
+  "dashboard": "Dashboard",
+  "requests": "Requests",
+  "nearby": "Nearby Tasks",
+  "accepted": "Accepted Tasks",
+  "profile": "Profile",
+  "admin": "Admin",
+  "login": "Login",
+  "register": "Register",
+  "logout": "Logout",
+  "createRequest": "Create Request",
+  "submit": "Submit",
+  "category": "Category",
+  "title": "Title",
+  "description": "Description",
+  "address": "Address",
+  "phone": "Phone",
+  "status": "Status",
+  "search": "Search"
+}

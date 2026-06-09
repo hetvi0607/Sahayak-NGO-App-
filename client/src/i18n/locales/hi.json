@@ -1,0 +1,21 @@
+{
+  "brand": "सहायक",
+  "dashboard": "डैशबोर्ड",
+  "requests": "अनुरोध",
+  "nearby": "नजदीकी कार्य",
+  "accepted": "स्वीकृत कार्य",
+  "profile": "प्रोफाइल",
+  "admin": "एडमिन",
+  "login": "लॉगिन",
+  "register": "रजिस्टर",
+  "logout": "लॉगआउट",
+  "createRequest": "अनुरोध बनाएं",
+  "submit": "जमा करें",
+  "category": "श्रेणी",
+  "title": "शीर्षक",
+  "description": "विवरण",
+  "address": "पता",
+  "phone": "फोन",
+  "status": "स्थिति",
+  "search": "खोजें"
+}
